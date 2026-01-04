@@ -9,6 +9,7 @@
     <a href="mailto:sakshamdhakad98@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+
   </p>
 
   <br/>
@@ -25,24 +26,4 @@
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
     <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
-
-  <br/>
-
-  <h2>📊 GitHub Analytics</h2>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=saksham483&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Saksham's Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham483&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham483&theme=tokyo-night&hide_border=true&area=true&color=3776AB" alt="Activity Graph" />
-    </a>
-  </p>
-</div>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-
