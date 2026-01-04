@@ -1,65 +1,47 @@
 <div align="center">
+  <h1>Hi, I'm Saksham Dhakad 👋</h1>
+  <h3><i>"Just a neural net optimizing its own weights 🧠"</i></h3>
 
-  <!-- Header & Bio -->
-  <h1 align="center">Hi, I'm Saksham Dhakad 👋</h1>
-  <h3 align="center"><i>"Just a neural net optimizing its own weights 🧠"</i></h3>
-
-  <!-- Trophies (These use a different stable system, good to keep) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saksham483&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
-  <br/><br/>
-
-  <!-- Social Links -->
   <p align="center">
-    <a href="https://instagram.com/sakshamdhakad7" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:sakshamdhakad98@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/sakshamdhakad7" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:sakshamdhakad98@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
   <br/>
 
-  <!-- Tech Stack -->
   <h2>💻 Tech Stack & Tools</h2>
-  
-  <p>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+    <br />
+    <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 
   <br/>
 
-  <!-- YOUR SELF-HOSTED STATS (These will never break) -->
   <h2>📊 GitHub Analytics</h2>
-  <div align="center">
-    <!-- Profile Details Card -->
-    <img src="https://raw.githubusercontent.com/saksham483/saksham483/master/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-    <br/>
-    <!-- Languages & Commits Side by Side -->
-    <img src="https://raw.githubusercontent.com/saksham483/saksham483/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    <img src="https://raw.githubusercontent.com/saksham483/saksham483/master/profile-summary-card-output/tokyonight/3-stats.svg" />
-  </div>
-
-  <br/>
-  <hr/>
-
-  <!-- Quote & Visit Counter -->
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-  <br/><br/>
-  
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=saksham483&icon=5&color=6" />
-  </a>
-
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=saksham483&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Saksham's Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham483&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham483&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak Stats" />
+    </a>
+  </p>
 </div>
