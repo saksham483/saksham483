@@ -39,9 +39,10 @@
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham483&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
     </a>
   </p>
+  
   <p align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham483&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak Stats" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham483&theme=tokyo-night&hide_border=true&area=true&color=3776AB" alt="Activity Graph" />
     </a>
   </p>
 </div>
